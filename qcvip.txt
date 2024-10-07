@@ -11052,4 +11052,4 @@
 ||zzelicawwofl.com^
 ||appsflyer.com^
 ||appsflyersdk.com^
-@@||app.appsflyer.com^|
+||app.appsflyer.com^|
